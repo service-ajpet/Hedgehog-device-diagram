@@ -29,7 +29,7 @@
   <h3 align="center">Hedgehog Design Development</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    A composition of conceptual work relating to the "hedgehog" imaging device
     <br />
     <a href="https://github.com/service-ajpet/Hedgehog-device-diagram"><strong>Explore the docs »</strong></a>
   </p>
